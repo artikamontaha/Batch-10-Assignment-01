@@ -32,7 +32,7 @@ header{
     font-size: 150%;
 }
 
-.btn{
+.btn-1{
     margin: 1%;
     margin-left: 46%;
     font-size: 150%;
@@ -44,18 +44,21 @@ header{
 }
 
 .conteiner{
-    height: 1395px;
+    height: 1595px;
     width: 1140px;
-    border: 2px solid red;
+    border: none;
     margin-left: 20%;
     margin: 4% 25%;
     background-color: rgb(243, 243, 243);
+    border-radius: 10px;
 }
 
 .h1-content{
     font-size: 50px;
     margin-left: 25%;
+    margin-top: 0;
     margin-top: 8%;
+    
 }
 
 .p-2{
@@ -67,7 +70,7 @@ header{
 .div-2{
     width: 945px;
     height: 340px;
-    border: 3px solid black;
+    border: none;
     margin-left: 8%;
     background-color: white;
     margin-top: 6%; 
@@ -75,15 +78,72 @@ header{
 }
 
 .img-3{
-    margin-left: 70%;
-    margin-top: 6%;
+    margin-left: 65%;
+    position: relative;
+    bottom: 0;
+    bottom: 50%;
+    
 }
 
 .h2-1{
     margin-left: 5%;
-    margin-top: 0%;
+    margin-top: 5%;
 }
 
+.p-3{
+    font-size: 20px;
+    margin-left: 5%;
+}
+
+.btn-2{
+    width: 150px;
+    height: 50px;
+    margin-left: 5%;
+    font-size: 150%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.div-3{
+    width: 945px;
+    height: 340px;
+    border: none;
+    margin-left: 8%;
+    background-color: white;
+    margin-top: 6%; 
+    border-radius: 20px;  
+}
+
+.h2-2{
+    margin-left: 54%;
+    margin-top: 0;
+    margin-top: 5%;
+    font-size: 150%;
+}
+
+.p-4{
+    font-size: 20px;
+    margin-left: 54%;
+
+}
+
+.btn-3{
+    width: 150px;
+    height: 50px;
+    margin-left: 54%;
+    font-size: 150%;
+    background-color: white;
+    border: 1px solid black;
+    bottom: 0;
+    bottom: 50%;
+}
+
+.img-4{
+    margin-right: 50%;
+    position: relative;
+    bottom: 0;
+    bottom: 60%;
+}
 
 
 
