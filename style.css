@@ -186,25 +186,9 @@ header{
 
 }
 
-/* .tag-1{
-    width: 365px;
-    height: 300px;
-    border: 2px solid black;
-    margin-left: 60%;
-    Display: flex;
-    justify-content: space-around;
-
-} */
 
 
-/* .tag-2{
-    width: 365px;
-    height: 300px;
-    border: 2px solid black;
-    bottom: 60%;
-}  */
-
-.najifa{
+/* .najifa{
     Display: flex;
     justify-content: center;
     align-items: center;
@@ -213,21 +197,32 @@ header{
     border: 2px solid red;
     width: 365px;
     height: 300px;
-} 
+}   */
+
+
+.tag-1{
+    width: 365px;
+    height: 300px;
+    border: 8px solid red;
+}
 
 .tag-2{
-    width: 10%;
-    height: 100px;
-    border: 9px solid red;
-    margin-left: 70%;
+    width: 365px;
+    height: 300px;
+    border: 8px solid red;
+}
+
+.tag-3{
+    width: 365px;
+    height: 300px;
+    border: 8px solid red;
+}
+
+.div-6{
+
 }
 
 
-/* .tag-3{
-    width: 365px;
-    height: 300px;
-    border: 2px solid black;
-} */
 
 
 
